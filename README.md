@@ -7,5 +7,5 @@ Part of the Command Line for the Creatives
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2e85ec52-4e8a-44d0-b726-1af4c56e61d5/deploy-status)](https://app.netlify.com/sites/tropicali2021/deploys)
 <div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.1/b.min.js" defer></script
+<script src="https://unpkg.com/website-carbon-badges@1.1.1/b.min.js" defer></script>
   
